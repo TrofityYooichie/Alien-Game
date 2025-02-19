@@ -15,5 +15,5 @@ In **Galactic Defenders: Alien Onslaught**, players take control of an advanced 
 - A variety of enemy types with different attack strategies
 - Online leaderboards to compete for high scores
 
-Will you rise as the galaxy’s last hope, or will the alien onslaught consume all? Prepare for the ultimate space battle in **Galactic Defenders: Alien Onslaught**!
+Will you rise as the galaxy’s last hope, or will the alien onslaught consume all? Prepare for the ultimate space battle in **Galactic Defenders: Alien Onslaught**
 
